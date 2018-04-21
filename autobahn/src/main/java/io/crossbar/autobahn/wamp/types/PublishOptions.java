@@ -31,5 +31,6 @@ public class PublishOptions {
         this.acknowledge = acknowledge;
         this.excludeMe = excludeMe;
         this.retain = retain;
+        this.eligibleAuthIds = eligibleAuthIds;
     }
 }
